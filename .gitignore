@@ -1,0 +1,18 @@
+*.class
+*.DS_Store
+*.pid
+.settings
+.classpath
+
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+*.log
+/target
+**/target
+out
+gen
+snapshots
